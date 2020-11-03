@@ -4,5 +4,5 @@
 - Page has to contain 2 videos provided in boilerplate with an overlay text on it.
 - The overlay text on video has to be displayed only on hover of video.
 - Use css to style the sheet has desired.
-- Refer to the following GIF to have a fair idea on how page has to look
-![About Us](/aboutUs_solution.mp4)
+- Refer to the following mp4 file to have a fair idea on how page has to look
+![](/aboutUs_solution.mp4)
