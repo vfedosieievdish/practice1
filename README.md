@@ -5,4 +5,4 @@
 - The overlay text on video has to be displayed only on hover of video.
 - Use css to style the sheet has desired.
 - Refer to the following GIF to have a fair idea how page has to look
-![Semantic description of image](/aboutUs_page.gif)
+![About Us](/aboutUs_solution.gif)
