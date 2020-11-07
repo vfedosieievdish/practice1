@@ -68,3 +68,17 @@ video {
     margin: 1em 0;
 }
 
+.vcont {
+    display: flex; 
+}
+
+.overlay {
+    position:absolute;
+    align-self: flex-end;
+    z-index:2;
+    display: none;
+}
+
+.overlayinfo {
+    background-color:rgba(0,0,0,0.5);
+}
