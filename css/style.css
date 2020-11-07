@@ -50,10 +50,6 @@ section {
     display: flex;
 }
 
-video {
-    margin: 0 0em;
-}
-
 .content {
     margin: 1em 2em;
 }
@@ -64,7 +60,7 @@ video {
     padding: 1em;
 }
 
-.info h3 {
+.info h2 {
     margin: 1em 0;
 }
 
